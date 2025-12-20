@@ -1,3 +1,5 @@
 Birinci setr.
 
 Ikinci setr.
+
+Uchuncu setr elave etdim.
